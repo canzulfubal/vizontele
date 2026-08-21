@@ -15,50 +15,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
 #EXTINF:-1 tvg-id="TRT1"  group-title="ULUSAL",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
-http://185.234.111.229:8000/play/a00c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/startv/startv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Star TV (1080i)
-http://77.83.120.135:8001/play/a0i6?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Star TV
-https://live20.bozztv.com/gin-trn09/gin-startv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Undefined",Star TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV SD
-https://dogus-live.daioncdn.net/startv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Show TV (1080p)
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Show Max
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Show Max
-https://canlitvulusal.xyz/live/showmax/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D (1080p)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TYT Turk
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TYT Turk (720p)
-https://cdn4.yayin.com.tr/tytturk/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 4K
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/512px-TRT_4K.svg.png" group-title="Undefined",TRT 4K (2160p)
-https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="Undefined",TV 8.5 (720p)
-http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business",Bloomberg HT
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" group-title="Undefined",Bloomberg HT
-http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BloombergHT (720p)
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Undefined",CNBC-e
+#EXTINF:0 tvg-id="CNBC" tvg-country="TR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Undefined",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CNBC-e
-https://stream.tvcdn.net/ekonomi/cnbc-e.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News Poland",TVP Info
 https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 #EXTINF:-1,wPolsce24
