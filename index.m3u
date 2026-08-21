@@ -12,7 +12,7 @@ https://sivrice.canlitv.me/kanald.m3u8
 #EXTINF:-1 tvg-id="NOW" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="SZC"  group-title="ULUSAL",SZC
-http://5.178.103.239:55/yt1/szctv.m3u8
+https://cdn509.canlitv.me/sozcutv.m3u8
 #EXTINF:0 tvg-id="CNBC" tvg-country="TR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Undefined",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News Poland",TVP Info
