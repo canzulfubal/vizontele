@@ -4,11 +4,11 @@ https://maden.canlitv.me/trt1.m3u8
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="SHOW" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+https://sivrice.canlitv.me/showtv.m3u8
 #EXTINF:-1 tvg-id="STAR" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+https://maden.canlitv.me/startv.m3u8
 #EXTINF:-1 tvg-id="KANAL D" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-https://sivrice.canlitv.me/kanald.m3u8
+https://maden.canlitv.me/kanald.m3u8
 #EXTINF:-1 tvg-id="NOW" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="SZC"  group-title="ULUSAL",SZC
